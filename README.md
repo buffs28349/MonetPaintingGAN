@@ -7,3 +7,6 @@ GANs are composed of at least a generator model and a disciminator model, where 
 The quality of our generated images are evaluated according to Memorization-informed Fréchet Inception Distance (MiFID). **Our goal is to achieve the smallest MiFID with the images our GAN produces.**
 
 The code for this project can be found at: https://github.com/buffs28349/MonetPaintingGAN
+
+## Leaderboard
+![Leaderboard Screenshot](./leaderboard.png)
